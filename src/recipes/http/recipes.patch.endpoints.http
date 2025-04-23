@@ -1,0 +1,8 @@
+
+PATCH http://localhost:3001/recipes/update
+Content-Type: application/json
+
+{
+    "_id": "680624e1a29b1fc001e367d2",
+    "name": "Vegetable Stir Fry"
+}

@@ -1,0 +1,21 @@
+POST http://localhost:3001/recipes/add
+Content-Type: application/json
+
+{
+  "name": "Pancakes",
+  "ingredients": [
+    "flour",
+    "milk",
+    "eggs",
+    "sugar",
+    "butter"
+  ],
+  "category": [
+    "Breakfast"
+  ],
+  "meal": [
+    "Vegetarian"
+  ],
+  "preparationTime": 20
+}
+
