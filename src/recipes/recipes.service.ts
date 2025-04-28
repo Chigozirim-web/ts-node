@@ -48,21 +48,6 @@ export class RecipeService {
  * 
  *
 {
-  "name": "Grilled Cheese Sandwich",
-  "ingredients": [
-    "bread",
-    "cheese",
-    "butter"
-  ],
-  "category": [
-    "Snack"
-  ],
-  "meal": [
-    "Vegetarian"
-  ],
-  "preparationTime": 10
-},
-{
   "name": "Beef Tacos",
   "ingredients": [
     "ground beef",
